@@ -1,5 +1,8 @@
 # Client
 
+The introduction task that I made for the job application using Vue.js and Nuxt. 
+The task: recreation of the small piece of the existing company’s website.
+
 ## Build Setup
 
 ```bash
